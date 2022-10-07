@@ -1,0 +1,23 @@
+{
+  "name": "socialmedia_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.8",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.18.1",
+    "helmet": "^6.0.0",
+    "mongoose": "^6.6.2",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
